@@ -1,3 +1,3 @@
 # TurtleBayrak
 
-Türk bayrağı çizdiren program.
+Türk bayrağı çizdiren python programı.
